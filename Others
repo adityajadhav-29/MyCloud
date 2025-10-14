@@ -9,4 +9,4 @@ $ aws help
 
 $ sudo apt update
 $ sudo apt install stress -y
-$ stress --cpu $(nproc) --timeout 300
+$ stress --cpu $(nproc) --timeout 600
